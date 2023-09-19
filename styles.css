@@ -10,7 +10,7 @@ img{
 	height:auto;
 	object-fit: cover;
 }
-form{
+#center{
 	margin:auto;
 	text-align:center;
 	padding:2rem;
